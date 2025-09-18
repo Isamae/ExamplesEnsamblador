@@ -22,7 +22,7 @@ Este repositorio contiene un programa escrito en **MIPS Assembly** que realiza o
 2. Luego recorre `arrayA` en sentido inverso, multiplicando cada elemento por 2 y almacenando el resultado nuevamente en `arrayA`.
 
 
-# Programa en MIPS Assembly – Serie de Fibonacci
+# Programa 3 en MIPS Assembly – Serie de Fibonacci
 
 Este proyecto implementa en **MIPS Assembly** un programa que imprime la **serie de Fibonacci** hasta el número de términos ingresado por el usuario.
 
